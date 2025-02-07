@@ -1,4 +1,4 @@
 # amaz-clone
 this is my first repository.
 <br>
-author - sid
+author - sid (nothing just practicing)
